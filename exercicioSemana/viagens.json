@@ -1,0 +1,60 @@
+{
+    "cidade": "Machu Picchu",
+    "país": "Peru",
+    "idioma": "Espanhol",
+    "o que me atrai": ["história inca", "cultura", "alpacas"]
+},
+{
+    "cidade": "Havana",
+    "país": "Cuba",
+    "idioma": "Espanhol",
+    "o que me atrai": ["cultura", "história", "pessoas"]
+},
+{
+    "cidade": "Montevidéu",
+    "país": "Uruguai",
+    "idioma": "Espanhol",
+    "o que me atrai": ["praias", "culinária", "cannabis"]
+},
+{
+    "cidade": "Roma",
+    "país": "Itália",
+    "idioma": "Italiano",
+    "o que me atrai": ["monumentos", "história", "culinária"]
+},
+{
+    "cidade": "Lagos",
+    "país": "Nigéria",
+    "idioma": "Inglês",
+    "o que me atrai": ["história", "cultura"] 
+},
+{
+    "cidade": "Baía de São Francisco",
+    "país": "EUA",
+    "idioma": "Inglês",
+    "o que me atrai": ["história", "vale do silício", "cannabis"] 
+},
+{
+    "cidade": "Paris",
+    "país": "França",
+    "idioma": "Francês",
+    "o que me atrai": ["museus", "culinária"]
+},
+{
+    "cidade": "Brighton",
+    "país": "Inglaterra",
+    "idioma": "Inglês",
+    "o que me atrai": ["maior parada LGBT+ da europa", "festas", "praias"] 
+},
+{
+    "cidade": "Istambul",
+    "país": "Turquia",
+    "idioma": "Turco",
+    "o que me atrai": ["história", "cultura", "monumentos"]
+},
+{
+    "cidade": "Joanesburgo",
+    "país": "África do Sul",
+    "idioma": [ "Africâner", "Inglês", "Língua zulu", "Língua xhosa"],
+    "o que me atrai": ["história", "cultura"]
+}

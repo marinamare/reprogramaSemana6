@@ -1,0 +1,50 @@
+{
+    "nome": "text color 1" ,
+    "código hexadecimal": "#ffffff",
+    "indicações de uso": ["against dark colors", "text", "icons"]
+},
+{
+    "nome": "text color 2",
+    "código hexadecimal": "#000000",
+    "indicações de uso": ["against bright colors", "text", "icons"]
+},
+{
+    "nome": "text color 3",
+    "código hexadecimal": "#d9d9d9ff",
+    "indicações de uso": ["against dark colors", "text", "icons"]
+},
+{
+    "nome": "text color 4",
+    "código hexadecimal": "#666666ff",
+    "indicações de uso": ["against bright colors", "text", "icons"]
+},
+{
+    "nome": "primary color",
+    "código hexadecimal": "702674",
+    "indicações de uso": ["background", "menu", "top bar", "titles"]
+},
+{
+    "nome": "primary dark",
+    "código hexadecimal": "#420048",
+    "indicações de uso": ["modal sheets", "dark theme background", "top bar"]
+},
+{
+    "nome": "primary ligth",
+    "código hexadecimal": "#a054a3",
+    "indicações de uso": ["highlight information", "light theme background", "breadcrumbs"]
+},
+{
+    "nome": "secondary color",
+    "código hexadecimal": "#56ae46",
+    "indicações de uso": ["float action button", "modal sheets", "selection controls"]
+},
+{
+    "nome": "secondary dark",
+    "código hexadecimal": "#1e7e16",
+    "indicações de uso": ["modal sheets", "dark theme background", "top bar"]
+},
+{
+    "nome": "secondary ligth",
+    "código hexadecimal": "#89e074",
+    "indicações de uso": ["highlight information", "light theme background", "breadcrumbs"]
+}

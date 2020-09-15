@@ -1,0 +1,53 @@
+{
+    "nome": "Dear white people",
+    "gênero": ["drama", "comédia", "sátira"],
+    "temporadas": 3,
+    "netflix": true
+},
+{
+    "nome": "Grey's anatomy" ,
+    "gênero": ["drama", "médica"],
+    "temporadas": 16,
+    "netflix": true
+},
+{
+    "nome": "Westworld",
+    "gênero": ["ficção científica", "western", "aventura"],
+    "temporadas": 3,
+    "netflix": false
+},
+{
+    "nome": "Altered carbon",
+    "gênero": ["ação", "ficção científica"],
+    "temporadas": 2,
+    "netflix": true
+},
+{
+    "nome": "Breaking bad",
+    "gênero": ["drama", "western"],
+    "temporadas": 5,
+    "netflix": true
+},
+{
+    "nome": "A casa de papel",
+    "gênero": ["ação", "crime"],
+    "temporadas": 4,
+    "netflix": true
+},
+{
+    "nome": "Peaky blinders",
+    "gênero": ["crime", "drama"],
+    "temporadas": 5,
+    "netflix": true
+},
+{
+    "nome": "Game of Thrones",
+    "gênero": ["drama", "fantasia"],
+    "temporadas": 8,
+    "netflix": false
+},
+{
+    "nome": "Sex education",
+    "gênero": ["drama", "comédia", "sátira"],
+    "temporadas": 2
+}

@@ -1,0 +1,40 @@
+{
+    "nome":"nervosa",
+    "gênero musical":["trash metal", "rock"],
+    "nacionalidade": "Brasil"
+},
+{
+    "nome": "The carters",
+    "gênero musical":["hip hop", "trap", "R&B contemporaneo"],
+    "nacionalidade": "EUA"
+},
+{
+    "nome": "Nação Zumbi",
+    "gênero musical": ["manguebeat", "art rock"],
+    "nacionalidade": "Brasil"
+},
+{
+    "nome": "Una",
+    "gênero musical": ["MPB", "Rock"],
+    "nacionalidade": "Brasil"
+},
+{
+    "nome": "Arandu Arakuaa",
+    "gênero musical": ["trash metal", "folk metal"],
+    "nacionalidade": "Brasil"
+},
+{
+    "nome": "A Trupe Poligodélica",
+    "gênero musical": ["rock psicoldélico"],
+    "nacionalidade": "Brasil"
+},
+{
+    "nome": "Academia da Berlinda",
+    "gênero musical": ["cumbia"],
+    "nacionalidade": "Brasil"
+},
+{
+    "nome": "Calle 13",
+    "gênero musical": ["Hip hop alternativo", "Rap rock", "Reaggaton"],
+    "nacionalidade": "Porto Rico"
+}

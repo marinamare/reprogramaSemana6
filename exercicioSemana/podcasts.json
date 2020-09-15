@@ -1,0 +1,50 @@
+{
+    "nome": "angu de grilo" ,
+    "principais temas": ["notícias", "pautas raciais", "feminismo"] ,
+    "tem pelo menos uma host mulher": true
+},
+{
+    "nome": "chá com a impostora" ,
+    "principais temas": ["síndrome da impostora", "feminismo", "lugar de fala"],
+    "tem pelo menos uma host mulher": true
+},
+{
+    "nome": "outras mamas" ,
+    "principais temas": ["veganismo", "crítica ao agronegócio", "feminismo"] ,
+    "tem pelo menos uma host mulher": true 
+},
+{
+    "nome": "calcinha larga" ,
+    "principais temas": ["maternagem"] ,
+    "tem pelo menos uma host mulher": true 
+},
+{
+    "nome": "cirandeiras" ,
+    "principais temas": ["notícias", "feminismo", "lugar de fala"] ,
+    "tem pelo menos uma host mulher": true
+},
+{
+    "nome": "gritaram-me negra" ,
+    "principais temas": ["história", "mulheres negras", "feminismo", "antirracismo"] ,
+    "tem pelo menos uma host mulher": true
+},
+{
+    "nome": "jornal do veneno" ,
+    "principais temas": ["notícias", "crítica ao agronegócio", "agricultura familiar", "veganismo"],
+    "tem pelo menos uma host mulher": true
+},
+{
+    "nome": "bom dia, obvious",
+    "principais temas": ["feminismo", "lugar de fala", "bem estar"],
+    "tem pelo menos uma host mulher": true
+},
+{
+    "nome": "política é massa" ,
+    "principais temas": ["política", "democracia", "antirracismo"],
+    "tem pelo menos uma host mulher": true
+},
+{
+    "nome": "grifa podcast" ,
+    "principais temas": ["leituras", "feminismo", "educação"] ,
+    "tem pelo menos uma host mulher": true
+}
