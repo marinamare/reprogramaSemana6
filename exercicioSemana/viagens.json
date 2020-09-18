@@ -1,4 +1,4 @@
-{
+[{
     "cidade": "Machu Picchu",
     "país": "Peru",
     "idioma": "Espanhol",
@@ -57,4 +57,4 @@
     "país": "África do Sul",
     "idioma": [ "Africâner", "Inglês", "Língua zulu", "Língua xhosa"],
     "o que me atrai": ["história", "cultura"]
-}
+}]

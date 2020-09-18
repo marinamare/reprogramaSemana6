@@ -1,4 +1,4 @@
-{
+[{
     "nome": "Karol Conka",
     "gênero": ["rap", "pop"] , 
     "estado": "Paraná"
@@ -47,4 +47,4 @@
     "nome": "Flaira Ferro",
     "gênero": ["MPB", "alternativo"] , 
     "estado": "Pernambuco"
-}
+}]

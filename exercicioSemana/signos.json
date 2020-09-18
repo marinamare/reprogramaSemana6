@@ -1,4 +1,4 @@
-{
+[{
     "signo": "aries",
     "casa": 1,
     "planeta regente": "marte",
@@ -93,4 +93,4 @@
     "elemento": "água",
     "energia": "mutável",
     "parte do corpo": ["pés", "glândula pineal"]
-}
+}]

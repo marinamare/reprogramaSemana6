@@ -1,4 +1,4 @@
-{
+[{
     "nome": "angu de grilo" ,
     "principais temas": ["notícias", "pautas raciais", "feminismo"] ,
     "tem pelo menos uma host mulher": true
@@ -47,4 +47,4 @@
     "nome": "grifa podcast" ,
     "principais temas": ["leituras", "feminismo", "educação"] ,
     "tem pelo menos uma host mulher": true
-}
+}]

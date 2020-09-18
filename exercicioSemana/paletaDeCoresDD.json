@@ -1,4 +1,4 @@
-{
+[{
     "nome": "text color 1" ,
     "código hexadecimal": "#ffffff",
     "indicações de uso": ["against dark colors", "text", "icons"]
@@ -47,4 +47,4 @@
     "nome": "secondary ligth",
     "código hexadecimal": "#89e074",
     "indicações de uso": ["highlight information", "light theme background", "breadcrumbs"]
-}
+}]

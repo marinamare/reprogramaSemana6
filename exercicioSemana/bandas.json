@@ -1,4 +1,4 @@
-{
+[{
     "nome":"nervosa",
     "gênero musical":["trash metal", "rock"],
     "nacionalidade": "Brasil"
@@ -37,4 +37,4 @@
     "nome": "Calle 13",
     "gênero musical": ["Hip hop alternativo", "Rap rock", "Reaggaton"],
     "nacionalidade": "Porto Rico"
-}
+}]

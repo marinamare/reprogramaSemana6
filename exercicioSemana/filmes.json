@@ -1,4 +1,4 @@
-{
+[{
     "título": "O menino que descobriu o vento",
     "ano de lançamento": 2019 ,
     "nacionalidade":["EUA", "Malawi","França", "Reino Unido"],
@@ -67,4 +67,4 @@
     "nacionalidade":["EUA", "Canadá"],
     "gênero":["terror"],
     "direção": "Robert Eggers"
-}
+}]
